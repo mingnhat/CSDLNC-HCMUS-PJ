@@ -1,0 +1,217 @@
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\bin\Debug\net7.0-windows\Project.exe
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\bin\Debug\net7.0-windows\Project.deps.json
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\bin\Debug\net7.0-windows\Project.runtimeconfig.json
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\bin\Debug\net7.0-windows\Project.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\bin\Debug\net7.0-windows\Project.pdb
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\obj\Debug\net7.0-windows\Project.csproj.AssemblyReference.cache
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\obj\Debug\net7.0-windows\Project.Form1.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\obj\Debug\net7.0-windows\Project.csproj.GenerateResource.cache
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\obj\Debug\net7.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\obj\Debug\net7.0-windows\Project.AssemblyInfoInputs.cache
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\obj\Debug\net7.0-windows\Project.AssemblyInfo.cs
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\obj\Debug\net7.0-windows\Project.csproj.CoreCompileInputs.cache
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\obj\Debug\net7.0-windows\Project.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\obj\Debug\net7.0-windows\refint\Project.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\obj\Debug\net7.0-windows\Project.pdb
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\obj\Debug\net7.0-windows\Project.genruntimeconfig.cache
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\HeThongBanHangTrucTuyen\Project\obj\Debug\net7.0-windows\ref\Project.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\bin\Debug\net7.0-windows\Project.exe
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\bin\Debug\net7.0-windows\Project.deps.json
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\bin\Debug\net7.0-windows\Project.runtimeconfig.json
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\bin\Debug\net7.0-windows\Project.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\bin\Debug\net7.0-windows\Project.pdb
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\Project.csproj.AssemblyReference.cache
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\Project.csproj.GenerateResource.cache
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\Project.AssemblyInfoInputs.cache
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\Project.AssemblyInfo.cs
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\Project.csproj.CoreCompileInputs.cache
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\Project.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\refint\Project.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\Project.pdb
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\Project.genruntimeconfig.cache
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\ref\Project.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DangKy.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DangNhap.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_Admin.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\Project.Properties.Resources.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_ThongTinCT.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_Main.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_ThongTinCT.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_DonHang.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_ThucDon.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_HopDong.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\Project.csproj.CopyComplete
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachDonHang_KH.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachLoaiHang.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachSanPham.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DatHang.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.main_KH.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongTinChiTiet_KH.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.HopDongChuaDuyet.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.HopDongDaDuyet.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.main_NV.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongTinChiTiet_NV.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ChiTietDonHang.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachDonHang.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachDonHangDaNhan.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.main_TX.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongKe.resources
+D:\Project\UNIVERSITY\THIRD YEAR\FIRST SEMESTER\Cơ sở dữ liệu nâng cao\Đồ án\CSDLNC-Project\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongTinChiTiet_TX.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\Project.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_Admin.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_ThongTinCT.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DangKy.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DangNhap.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_DonHang.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_HopDong.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_Main.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_ThongTinCT.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_ThucDon.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachDonHang_KH.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachLoaiHang.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachSanPham.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DatHang.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.main_KH.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongTinChiTiet_KH.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.HopDongChuaDuyet.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.HopDongDaDuyet.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.main_NV.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongTinChiTiet_NV.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\Project.Properties.Resources.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ChiTietDonHang.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachDonHang.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachDonHangDaNhan.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.main_TX.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongKe.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongTinChiTiet_TX.resources
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\Project.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\Project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\Project.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\Project.dll
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\refint\Project.dll
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\Project.pdb
+C:\Users\ASUS\Desktop\doAnReal\Project\bin\Debug\net7.0-windows\Project.exe
+C:\Users\ASUS\Desktop\doAnReal\Project\bin\Debug\net7.0-windows\Project.deps.json
+C:\Users\ASUS\Desktop\doAnReal\Project\bin\Debug\net7.0-windows\Project.runtimeconfig.json
+C:\Users\ASUS\Desktop\doAnReal\Project\bin\Debug\net7.0-windows\Project.dll
+C:\Users\ASUS\Desktop\doAnReal\Project\bin\Debug\net7.0-windows\Project.pdb
+C:\Users\ASUS\Desktop\doAnReal\Project\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\doAnReal\Project\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\doAnReal\Project\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\doAnReal\Project\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\doAnReal\Project\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\doAnReal\Project\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\Project.csproj.CopyComplete
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\Project.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\doAnReal\Project\obj\Debug\net7.0-windows\ref\Project.dll
+C:\Users\ASUS\Desktop\doan\Project\bin\Debug\net7.0-windows\Project.exe
+C:\Users\ASUS\Desktop\doan\Project\bin\Debug\net7.0-windows\Project.deps.json
+C:\Users\ASUS\Desktop\doan\Project\bin\Debug\net7.0-windows\Project.runtimeconfig.json
+C:\Users\ASUS\Desktop\doan\Project\bin\Debug\net7.0-windows\Project.dll
+C:\Users\ASUS\Desktop\doan\Project\bin\Debug\net7.0-windows\Project.pdb
+C:\Users\ASUS\Desktop\doan\Project\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\doan\Project\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\doan\Project\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\doan\Project\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\doan\Project\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\doan\Project\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\Project.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DangKy.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DangNhap.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_DonHang.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_HopDong.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_Main.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_ThongTinCT.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_ThucDon.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachDonHang_KH.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachLoaiHang.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachSanPham.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DatHang.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.main_KH.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongTinChiTiet_KH.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.HopDongChuaDuyet.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.HopDongDaDuyet.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.main_NV.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongTinChiTiet_NV.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ChiTietDonHang.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachDonHang.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachDonHangDaNhan.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.main_TX.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongKe.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongTinChiTiet_TX.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\Project.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\Project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\Project.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\Project.csproj.CopyComplete
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\Project.dll
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\refint\Project.dll
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\Project.pdb
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\Project.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\ref\Project.dll
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_Admin_DSTK.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_CuaHang.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_Admin_DangKy.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_Admin_Main.resources
+C:\Users\ASUS\Desktop\doan\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_Admin_ThongTinCT.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\bin\Debug\net7.0-windows\Project.exe
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\bin\Debug\net7.0-windows\Project.deps.json
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\bin\Debug\net7.0-windows\Project.runtimeconfig.json
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\bin\Debug\net7.0-windows\Project.dll
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\bin\Debug\net7.0-windows\Project.pdb
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\Project.csproj.AssemblyReference.cache
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_Admin_DangKy.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_Admin_DSTK.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_Admin_Main.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_Admin_ThongTinCT.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DangKy.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DangNhap.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_CuaHang.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_DonHang.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_HopDong.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_Main.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_ThongTinCT.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.Form_DoiTac_ThucDon.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachDonHang_KH.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachLoaiHang.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachSanPham.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DatHang.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.main_KH.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongTinChiTiet_KH.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.HopDongChuaDuyet.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.HopDongDaDuyet.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.main_NV.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongTinChiTiet_NV.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ChiTietDonHang.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachDonHang.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.DanhSachDonHangDaNhan.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.main_TX.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongKe.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\DoAnCuoiKi.ThongTinChiTiet_TX.resources
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\Project.csproj.GenerateResource.cache
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\Project.AssemblyInfoInputs.cache
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\Project.AssemblyInfo.cs
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\Project.csproj.CoreCompileInputs.cache
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\Project.csproj.CopyComplete
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\Project.dll
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\refint\Project.dll
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\Project.pdb
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\Project.genruntimeconfig.cache
+C:\Users\tranh\Downloads\12_20127326_20127112_20127584\12_20127326_20127112_20127584\Code\Project\obj\Debug\net7.0-windows\ref\Project.dll
