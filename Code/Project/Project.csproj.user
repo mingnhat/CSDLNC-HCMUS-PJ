@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\Form_Admin_DSTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangNhap_DangKy\Form_DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangNhap_DangKy\Form_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoiTac\Form_DoiTac_CuaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoiTac\Form_DoiTac_DonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoiTac\Form_DoiTac_HopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoiTac\Form_DoiTac_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoiTac\Form_DoiTac_ThongTinCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoiTac\Form_DoiTac_ThucDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KhachHang\DanhSachDonHang_KH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KhachHang\DanhSachLoaiHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KhachHang\DanhSachSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KhachHang\DatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KhachHang\main_KH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KhachHang\ThongTinChiTiet_KH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien\HopDongChuaDuyet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien\HopDongDaDuyet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien\main_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien\ThongTinChiTiet_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiXe\ChiTietDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiXe\DanhSachDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiXe\DanhSachDonHangDaNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiXe\main_TX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiXe\ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiXe\ThongTinChiTiet_TX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

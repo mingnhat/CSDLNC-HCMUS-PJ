@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Admin\Form_Admin_DSTK.cs" />
+    <Compile Update="Admin\Form_Admin_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Form_Admin_ThongTinCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Form_Admin_DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoiTac\Form_DoiTac_HopDong.cs" />
+    <Compile Update="DoiTac\Form_DoiTac_CuaHang.cs" />
+    <Compile Update="DoiTac\Form_DoiTac_ThucDon.cs" />
+    <Compile Update="DoiTac\Form_DoiTac_Main.cs" />
+    <Compile Update="DoiTac\Form_DoiTac_DonHang.cs" />
+    <Compile Update="DoiTac\Form_DoiTac_ThongTinCT.cs" />
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
